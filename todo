@@ -1,0 +1,22 @@
+TODO:
+  - change all references to
+    * int exit(void) from user.h
+    * void exit(void) from defs.h
+    * int sys_exit(void) from sysproc.h
+  - files to update
+    * cat.c (5)
+    * echo.c (1)
+    * forktests.c (5)
+    * grep.c (4)
+    * init.c (2)
+    * kill.c (2)
+    * ln.c (2)
+    * ls.c (2)
+    * mkdir.c (2)
+    * rm.c (2) 
+    * sh.c (6)
+    * stressfs.c (1)
+    * trap.c (4)
+    * usertests.c (185)
+    * wc.c (4)
+    * zombie.c (1)
